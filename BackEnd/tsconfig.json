@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module":"CommonJS",
+        "moduleResolution": "node",
+        "strict": true,
+        "outDir": "./buit",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "esModuleInterop": true
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^4.9.5"
+    }
+}
